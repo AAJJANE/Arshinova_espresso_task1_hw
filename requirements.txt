@@ -1,0 +1,8 @@
+numpy==2.0.2
+pip==23.2.1
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.3
+PyQt6_sip==13.8.0
+pyqtgraph==0.13.7
+setuptools==68.2.0
+wheel==0.41.2
